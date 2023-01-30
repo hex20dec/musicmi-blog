@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MusicMi Articles",
+    "description": "",
+    "home_page_url": "https://hex20dec.github.io/musicmi-blog",
+    "feed_url": "https://hex20dec.github.io/musicmi-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sofia"
+    },
+    "items": [
+    ]
+}

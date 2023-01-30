@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hex20dec.github.io/musicmi-blog/sitemap.xml
