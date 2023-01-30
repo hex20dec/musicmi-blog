@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "MusicMi Articles",
+    "title": "MusicMi News",
     "description": "",
     "home_page_url": "https://hex20dec.github.io/musicmi-blog",
     "feed_url": "https://hex20dec.github.io/musicmi-blog/feed.json",
     "user_comment": "",
+    "icon": "https://hex20dec.github.io/musicmi-blog/media/website/white-logo-blog-2.svg",
     "author": {
         "name": "Sofia"
     },

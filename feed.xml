@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>MusicMi Articles</title>
+    <title>MusicMi News</title>
     <link href="https://hex20dec.github.io/musicmi-blog/feed.xml" rel="self" />
     <link href="https://hex20dec.github.io/musicmi-blog" />
     <updated>1969-12-31T19:00:00-05:00</updated>

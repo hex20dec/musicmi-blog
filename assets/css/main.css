@@ -769,7 +769,7 @@ textarea {
   margin-right: auto;
 }
 .logo > img {
-  max-height: calc(3.9666666667rem + 1vw);
+  max-height: calc(2rem + 1vw);
   width: auto;
 }
 
